@@ -1,4 +1,4 @@
-# T-wall-interaction-curves
+# T-wall Interaction Curves
 
 This software calculates and draws T-wall interaction curves using the Compression Stress Block Model.
 
